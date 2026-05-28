@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfarse",
+        "uuid": 18308092,
+        "checksum": "wtjdoe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
